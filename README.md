@@ -1,4 +1,4 @@
-<h1 align="left">I mainly use <a href="https://codeberg.org/shanecaf/jarquery">Codeberg</a> now!</h1>
+<h1 align="left">I mainly use <a href="https://codeberg.org/shanecaf/">Codeberg</a> now!</h1>
 
 <img align="left" height="200" src="https://avatars.githubusercontent.com/u/50779115?v=4"  />
 
